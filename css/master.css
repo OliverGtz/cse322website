@@ -2,5 +2,10 @@
   background: #eee;
   border-radius: 10px;
   height: 500px;
+  width: 50%;
+  margin: 0 auto;
   padding: 20px;
+  text-align: center;
 }
+
+h1, h2 { text-align: center;}
